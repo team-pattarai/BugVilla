@@ -79,6 +79,6 @@
     "*.{js}": "eslint ./server/** --cache --fix"
   },
   "engines": {
-    "node": "10.15.0"
+    "node": "14.0.0"
   }
 }
